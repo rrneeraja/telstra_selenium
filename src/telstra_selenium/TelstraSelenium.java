@@ -11,7 +11,7 @@ public class TelstraSelenium {
     // declaration and instantiation of objects/variables  
     System.setProperty("webdriver.chrome.driver", "C:\\Users\\nagar\\Downloads\\chromedriver_win32-84\\chromedriver.exe");  
     WebDriver driver=new ChromeDriver();  
-      
+
 // Launch website  
    // driver.navigate().to("http://www.google.com/");  
       driver.get("http://www.google.com/");
